@@ -1,0 +1,174 @@
+Response
+"1. He hit the ball with a bat. (V + N + PP)
+2. She hit him on the head. (V + N + PP)
+3. The car hit the tree. (V + N + N)
+4. The storm hit the coast. (V + N + N)
+5. The boxer hit his opponent. (V + N + N)"
+"1. hit (V): [NP Agent] hit [NP Theme]
+2. hit (V): [NP Agent] hit [NP Theme] [PP Location]
+3. hit (V): [NP Agent] hit [NP Theme] [PP Path]
+4. hit (V): [NP Agent] hit [NP Theme] [PP Goal]
+5. hit (V): [NP Agent] hit [NP Theme] [PP Path] [PP Goal]"
+"1. hit (V): [Sbj V Obj]
+2. hit (V): [Sbj V against Obj]
+3. hit (V): [Sbj V at Obj]
+4. hit (V): [Sbj V Obj to Obj]
+5. hit (V): [Sbj V Obj against Obj]"
+"1. hit (V): [NP Agent] hit [NP Theme]
+2. hit (V): [NP Agent] hit [NP Theme] [PP Location]
+3. hit (V): [NP Agent] hit [NP Theme] [PP Destination]
+4. hit (V): [NP Agent] hit [NP Theme] [PP Path]
+5. hit (V): [NP Agent] hit [NP Theme] [PP Manner]"
+"1. hit (V): [NP Agent] hit [NP Theme]
+2. hit (V): [NP Agent] hit [NP Theme] [PP Location]
+3. hit (V): [NP Agent] hit [NP Theme] [PP Path]
+4. hit (V): [NP Agent] hit [NP Theme] [PP Goal]
+5. hit (V): [NP Agent] hit [NP Theme] [PP Instrument]"
+"1. hit (V): [NP Agent] hit [NP Theme]
+2. hit (V): [NP Agent] hit [NP Theme] [PP Location]
+3. hit (V): [NP Agent] hit [NP Theme] [PP Path]
+4. hit (V): [NP Agent] hit [NP Theme] [PP Goal]
+5. hit (V): [NP Agent] hit [NP Theme] [PP Instrument]"
+"1. He hit the ball with a bat. (V + N + PP)
+2. She hit him on the head. (V + N + PP)
+3. The car hit the tree. (V + N + N)
+4. The storm hit the coast hard. (V + N + N + Adj)
+5. The news hit her hard. (V + N + Pron)"
+"1. hit (V): [NP Agent] hit [NP Theme]
+2. hit (V): [NP Agent] hit [NP Theme] [PP Location]
+3. hit (V): [NP Agent] hit [NP Theme] [PP Path]
+4. hit (V): [NP Agent] hit [NP Theme] [PP Goal]
+5. hit (V): [NP Agent] hit [NP Theme] [PP Path] [PP Goal]"
+"1. hit [V; S; 1; NP; 2; PP]
+2. hit [V; S; 1; NP; 2; NP]
+3. hit [V; S; 1; NP; 2; NP; 3; PP]
+4. hit [V; S; 1; NP; 2; NP; 3; NP]
+5. hit [V; S; 1; NP; 2; NP; 3; NP; 4; PP]"
+"1. He hit the ball with a bat. (V + N + Prep + N)
+2. She hit him on the head. (V + Pro + Prep + N)
+3. The car hit the tree. (N + V + N)
+4. The storm hit the coast with strong winds. (N + V + N + Prep + Adj + N)
+5. The boxer hit his opponent with a powerful punch. (N + V + Pro + Prep + Det + Adj + N)"
+"1. hit (V): [NP Agent] hit [NP Theme]
+2. hit (V): [NP Agent] hit [NP Theme] [PP Location]
+3. hit (V): [NP Agent] hit [NP Theme] [PP Path]
+4. hit (V): [NP Agent] hit [NP Theme] [PP Goal]
+5. hit (V): [NP Agent] hit [NP Theme] [PP Instrument]"
+"1. hit (V): [NP Agent] hit [NP Theme]
+2. hit (V): [NP Agent] hit [NP Theme] [PP Location]
+3. hit (V): [NP Agent] hit [NP Theme] [PP Destination]
+4. hit (V): [NP Agent] hit [NP Theme] [PP Instrument]
+5. hit (V): [NP Agent] hit [NP Theme] [PP Time]"
+"1. hit (V): [NP Agent] hit [NP Theme]
+2. hit (V): [NP Agent] hit [NP Theme] [PP Location]
+3. hit (V): [NP Agent] hit [NP Theme] [PP Goal]
+4. hit (V): [NP Agent] hit [NP Theme] [PP Instrument]
+5. hit (V): [NP Agent] hit [NP Theme] [PP Cause]"
+"1. hit [V; transitive; dynamic; telic; concrete]: He hit the ball out of the park.
+2. hit [V; transitive; dynamic; telic; concrete]: The car hit the tree and caused significant damage.
+3. hit [V; transitive; dynamic; telic; concrete]: She hit the target with perfect accuracy.
+4. hit [V; transitive; dynamic; telic; concrete]: The boxer hit his opponent with a powerful punch.
+5. hit [V; transitive; dynamic; telic; concrete]: The storm hit the coastal town with strong winds and heavy rain."
+"1. hit (V): [S AGT] hit [O] - The batter hit the ball.
+2. hit (V): [S AGT] hit [O] [PP LOC] - The boxer hit his opponent in the face.
+3. hit (V): [S AGT] hit [O] [PP TMP] - The storm hit the coast last night.
+4. hit (V): [S AGT] hit [O] [PP DIR] - The car hit the tree.
+5. hit (V): [S AGT] hit [O] [PP LOC] [PP DIR] - The tennis player hit the ball over the net."
+"1. hit (V): [NP Agent] hit [NP Theme]
+2. hit (V): [NP Agent] hit [NP Theme] [PP Path]
+3. hit (V): [NP Agent] hit [NP Theme] [PP Goal]
+4. hit (V): [NP Agent] hit [NP Theme] [PP Path] [PP Goal]
+5. hit (V): [NP Agent] hit [NP Theme] [PP Path] [PP Goal] [PP Manner]"
+"1. hit (V): [NP Agent] hit [NP Theme]
+2. hit (V): [NP Agent] hit [NP Theme] [PP Location]
+3. hit (V): [NP Agent] hit [NP Theme] [PP Path]
+4. hit (V): [NP Agent] hit [NP Theme] [PP Goal]
+5. hit (V): [NP Agent] hit [NP Theme] [PP Instrument]"
+"1. hit (V): [NP Agent] hit [NP Theme]
+2. hit (V): [NP Agent] hit [NP Theme] [PP Location]
+3. hit (V): [NP Agent] hit [NP Theme] [PP Path]
+4. hit (V): [NP Agent] hit [NP Theme] [PP Goal]
+5. hit (V): [NP Agent] hit [NP Theme] [PP Path] [PP Goal]"
+"1. hit (V): [Agent] hit [Patient]
+2. hit (V): [Agent] hit [Patient] [Location]
+3. hit (V): [Agent] hit [Patient] [Result]
+4. hit (V): [Agent] hit [Patient] [Instrument]
+5. hit (V): [Agent] hit [Patient] [Direction]"
+"1. He hit the ball with a bat.
+   Pattern: V + N + with + N
+
+2. The car hit a tree.
+   Pattern: N + V + N
+
+3. She hit him on the head.
+   Pattern: V + N + on + N
+
+4. The storm hit the coast with strong winds.
+   Pattern: N + V + N + with + Adj + N
+
+5. The boxer hit his opponent with a powerful punch.
+   Pattern: N + V + Possessive + N + with + Adj + N"
+"1. hit (V): [Sbj V Obj]
+- The baseball player hit the ball.
+- The subject ""baseball player"" performs the action ""hit"" on the object ""ball"".
+
+2. hit (V): [Sbj V Obj Adv]
+- The boxer hit the punching bag hard.
+- The subject ""boxer"" performs the action ""hit"" on the object ""punching bag"" with the adverb ""hard"".
+
+3. hit (V): [Sbj V Obj to Inf]
+- The coach hit the player to motivate him.
+- The subject ""coach"" performs the action ""hit"" on the object ""player"" to Infinitive ""motivate"".
+
+4. hit (V): [Sbj V Obj to V]
+- The teacher hit the student to stop misbehaving.
+- The subject ""teacher"" performs the action ""hit"" on the object ""student"" to Verb ""stop"".
+
+5. hit (V): [Sbj V Obj with Obj]
+- The criminal hit the victim with a bat.
+- The subject ""criminal"" performs the action ""hit"" on the object ""victim"" with the object ""bat""."
+"1. hit (V): [NP Agent] hit [NP Theme]
+2. hit (V): [NP Agent] hit [NP Theme] [PP Path]
+3. hit (V): [NP Agent] hit [NP Theme] [PP Path] [PP Goal]
+4. hit (V): [NP Agent] hit [NP Theme] [PP Path] [PP Goal] [PP Source]
+5. hit (V): [NP Agent] hit [NP Theme] [PP Path] [PP Goal] [PP Source] [PP Manner]"
+"1. He hit the ball with a bat. (V + N + PP)
+2. She hit him on the head. (V + N + PP)
+3. The car hit the tree. (V + N + N)
+4. The storm hit the coast hard. (V + N + N + Adj)
+5. The news hit her hard. (V + N + Pron)"
+"1. hit (V): [NP Agent] hit [NP Theme]
+2. hit (V): [NP Agent] hit [NP Theme] [PP Location]
+3. hit (V): [NP Agent] hit [NP Theme] [PP Destination]
+4. hit (V): [NP Agent] hit [NP Theme] [PP Path]
+5. hit (V): [NP Agent] hit [NP Theme] [PP Goal]"
+"1. He hit the ball with a bat. (V + DO + IO + PP)
+2. The car hit the tree. (V + DO + IO)
+3. She hit him hard. (V + DO + Adv)
+4. The storm hit the coast. (V + DO + IO)
+5. He hit the target accurately. (V + DO + Adv)"
+"1. He hit the ball with a bat. (V + N + PP)
+2. She hit him on the head. (V + N + PP)
+3. The car hit the tree. (V + N + N)
+4. The storm hit the coast hard. (V + N + N + Adj)
+5. The news hit her hard. (V + N + Pron)"
+"1. He hit the ball with a bat. (V + N + PP)
+2. She hit him on the head. (V + N + PP)
+3. The storm hit the coast hard. (V + N + Adv)
+4. The news hit her like a ton of bricks. (V + N + PP)
+5. The car hit the tree at full speed. (V + N + PP)"
+"1. He hit the ball with a bat. (V + N + PP)
+2. She hit him on the head. (V + N + PP)
+3. The car hit the tree. (V + N + N)
+4. The storm hit the coast hard. (V + N + N + Adj)
+5. The news hit her hard. (V + N + Pronoun + Adj)"
+"1. hit (V): [NP Agent] hit [NP Theme]
+2. hit (V): [NP Agent] hit [NP Theme] [PP Location]
+3. hit (V): [NP Agent] hit [NP Theme] [PP Path]
+4. hit (V): [NP Agent] hit [NP Theme] [PP Goal]
+5. hit (V): [NP Agent] hit [NP Theme] [PP Path] [PP Goal]"
+"1. hit (V): [NP Agent] hit [NP Theme]
+2. hit (V): [NP Agent] hit [NP Theme] [PP Location]
+3. hit (V): [NP Agent] hit [NP Theme] [PP Destination]
+4. hit (V): [NP Agent] hit [NP Theme] [PP Source]
+5. hit (V): [NP Agent] hit [NP Theme] [PP Path]"

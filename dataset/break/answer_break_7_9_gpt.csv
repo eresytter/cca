@@ -1,0 +1,26 @@
+Response
+[[artifact | phys obj]] break
+the dog fell and the bottle broke = [[artifact | phys obj]] break
+[[human | animate | event]] break [[artifact | phys obj]]
+[[artifact | phys obj]] break
+[[animal]] break [[artifact | phys obj]]
+[[human | animate | event]] break [[artifact | phys obj]]
+[[artifact | phys obj]] break
+The dog fell and the jar broke = [[artifact | phys obj]] break
+[[artifact | phys obj]] break
+[[artifact | phys obj]] break
+[[human | animate | event]] break [[artifact | phys obj]]
+phrasal [[human | event 1]] break [[event 2]] [up]
+[[artifact | phys obj]] break
+The dog fell and broke the cage = [[human | animate | event]] break [[artifact | phys obj]]
+[[artifact | phys obj]] break
+[[human | animate | event]] break [[artifact | phys obj]]
+[[artifact | phys obj]] break
+[[human | animal]] break [[artifact | phys obj]]
+[[human | animal]] break [[artifact | phys obj]]
+[[artifact | phys obj]] break
+when he fell he broke it. = [[human | animate | event]] break [[artifact | phys obj]]
+[[animal]] break [[artifact | phys obj]]
+[[human | animate | event]] break [[artifact | phys obj]]
+[[artifact | phys obj]] break
+[[artifact | phys obj]] break

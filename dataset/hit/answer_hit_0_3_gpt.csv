@@ -1,0 +1,39 @@
+Response
+she going hit it. = [[human 1 | animate obj]] hit [[phys obj]]
+Miffy he was hitting that bird. = [[human 1 | animate obj]] hit [[human 2 | phys obj]]
+he hit the fish. = [[human 1 | animate obj]] hit [[phys obj]]
+"he hit Pingu on the fish. = [[human 1]] hit [out, at ([[phys obj]]) | [[human 2]] | [[]]]"
+he's hitting the tree. = [[human 1 | animate obj]] hit [[phys obj]]
+I didn't hit one of your ornaments. = [[human 1 | animate obj]] hit [[phys obj]]
+cause she hit my brother. = [[human 1 | animate obj]] hit [[human 2 | phys obj]]
+cause he hit her. = [[human 1 | animate obj]] hit [[human 2 | phys obj]]
+cause she hit him. = [[human 1 | animate obj]] hit [[human 2 | phys obj]]
+    she hit all the boys and girls. = [[human 1 | animate obj]] hit [[human 2 | phys obj]]
+she hits all the girls = [[human 1 | animate obj]] hit [[human 2 | phys obj]]
+[[human 1 | animate obj]] hit [[human 2 | phys obj]]
+"he hit me on this. = [[human 1]] hit [out, at ([[proposition]] | [[human 2]] | [[]]]"
+he hit me on the head. = [[human 1 | animate obj]] hit [[human 2 | phys obj]] [on [head]]
+Amy and he hit me on the head. = [[human 1 | animate obj]] hit [[human 2 | phys obj]] [on [head]]
+[[human 1 | animate obj]] hit [[human 2 | phys obj]] [on [head]]
+what did it do? it hit me. = [[human 1 | animate obj]] hit [[human 2 | phys obj]]
+the little dogs hit Jack on his feet. = [[human 1 | animate obj]] hit [[human 2 | phys obj]]
+    we swing and hit the big monster. = [[human 1 | animate obj]] hit [[human 2 | phys obj]]
+he hit him on the head boing! = [[human 1]] hit ([[human 2]])[back]
+he hit his head. = [[human]] hit [head]
+they're all hit. = [[human | institution | activity]] hit [brick wall | buffers]
+[[human 1 | animate obj]] hit [[human 2 | phys obj]]
+I'm not gonna hit people. = [[human 1 | animate obj]] hit [[human 2 | phys obj]]
+he is not gonna hit you. = [[human 1 | animate obj]] hit [[human 2 | phys obj]]
+[[inanimate]] hit [[phys obj]]
+[[inanimate]] hit [[phys obj]]
+"okay. hit. whoops. you missed.
+
+Since the context is minimal and the sentences are fragmented, it's challenging to provide precise annotations. However, based on the patterns provided, here's an attempt:
+
+- okay. hit. = This is too vague to annotate without additional context.
+- whoops. = This is an interjection and doesn't involve the verb ""hit.""
+- you missed. = This implies an action related to hitting but doesn't explicitly use the verb ""hit.""
+
+Given the lack of context, specific annotations cannot be accurately assigned."
+I'm gonna hit. = [[human 1]] hit [[]]
+[[human = ball player]] hit [[phys obj]] [with ([[artifact = ball]])]
